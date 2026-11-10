@@ -1,10 +1,12 @@
 # BLESSING AI
 
-BLESSING is a personal Android AI assistant project.
+BLESSING is a personal AI assistant project.
 
 ## Features
-- Simple chat interface
-- AI integration planned
+- Android chat interface
+- Gemini AI integration planned
+- Voice assistant features planned
+- Phone control features planned
 - Android APK build using GitHub Actions
 
 ## Package
